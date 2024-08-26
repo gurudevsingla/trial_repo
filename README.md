@@ -1,3 +1,4 @@
 # trial_repo
- This repository is for practice only
- Creating another branch from main branch i.e. B
+
+ This repository is for practice only.
+ Learning about check out branch.
